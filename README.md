@@ -25,7 +25,7 @@ Fitness Buddy aims to solve the modern challenge of maintaining a healthy lifest
 # How to Make This Project
 ----------* Video below will show how work with IBM Cloud *------------
 
-[https://drive.google.com/file/d/1hjmUgP7AvFOew35rffOFCeFYgK__s2FE/view?usp=drive_link](URL)
+[Click Here For the video](https://drive.google.com/file/d/1hjmUgP7AvFOew35rffOFCeFYgK__s2FE/view?usp=drive_link)
 
 # Screenshots 
 Results 
