@@ -1,6 +1,9 @@
 # Fitness-Buddy-AI-Agent
 An automated AI agent built with IBM Cloud and Watsonx.ai, designed to act as a smart virtual fitness coach.
 
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/cce1b754-406e-4258-abc8-8782363589d0" />
+
+
 # Problem Statement
 Fitness Buddy aims to solve the modern challenge of maintaining a healthy lifestyle despite busy schedules, lack of motivation, and limited access to personalized coaching.
 
