@@ -40,6 +40,9 @@ Deployment
 <img width="1863" height="862" alt="Screenshot 2025-08-01 122825" src="https://github.com/user-attachments/assets/5ddadd99-bdf0-4b28-bcbd-9585232a7f7f" />
 
 <img width="1743" height="835" alt="Screenshot 2025-08-01 122841" src="https://github.com/user-attachments/assets/4fadcca7-3fd7-4b8c-afc5-16590109dc4b" />
+
 # Contributions
+
 * Developed by Apurv Singh Rao
+
 * Part of Edunet Foundation
