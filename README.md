@@ -49,3 +49,15 @@ Deployment
 * Developed by Apurv Singh Rao
 
 * Part of Edunet Foundation
+
+# CERTIFICATE
+
+
+<img width="1083" height="821" alt="Screenshot 2025-07-31 135117" src="https://github.com/user-attachments/assets/b3f49350-7487-4eaf-adf6-cf7f6c502a09" />
+
+
+<img width="1068" height="819" alt="Screenshot 2025-07-31 135054" src="https://github.com/user-attachments/assets/68970af2-513c-432a-9a8a-6c132e8bfd07" />
+
+
+<img width="1371" height="821" alt="Screenshot 2025-07-31 135019" src="https://github.com/user-attachments/assets/0dfa92e9-2efb-4d8a-9b8a-2413318929c4" />
+
